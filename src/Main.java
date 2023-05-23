@@ -23,7 +23,7 @@ public class Main {
 
         double average = (mat+fizik+turkce+kimya+muzik)/5;
         if(average<55){
-            System.out.print("Maalesef sinifta kaldiniz ");
+            System.out.print("Maalesef kaldiniz ders calis ");
         }else{
             System.out.print("Tebrikler gectiniz ");
         }
